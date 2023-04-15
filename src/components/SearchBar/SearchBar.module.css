@@ -1,0 +1,8 @@
+.buscador {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10cm;
+    height: 35px;
+    font-size: 20px;
+}
